@@ -29,8 +29,18 @@
     &quot;last_opened_file_path&quot;: &quot;G:/WORK/palacsinta&quot;,
     &quot;php.override.implement.member.chooser.php.doc&quot;: &quot;NONE&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\WORK\palacsinta" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,6 +57,15 @@
       <workItem from="1676629813643" duration="7716000" />
       <workItem from="1676716092387" duration="482000" />
       <workItem from="1676805366869" duration="3391000" />
+      <workItem from="1676904485583" duration="612000" />
+      <workItem from="1676983185616" duration="2302000" />
+      <workItem from="1677070157068" duration="9826000" />
+      <workItem from="1677151860489" duration="6066000" />
+      <workItem from="1677229814463" duration="7681000" />
+      <workItem from="1677320168519" duration="1309000" />
+      <workItem from="1677677261086" duration="5538000" />
+      <workItem from="1677764748683" duration="1841000" />
+      <workItem from="1677788388332" duration="2571000" />
     </task>
     <servers />
   </component>
